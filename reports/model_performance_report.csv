@@ -1,0 +1,25 @@
+MAE,RMSE,R2,MAPE,Model,Parameter
+0.316,0.408,0.932,5.22,Linear Regression,dissolved_oxygen
+0.316,0.408,0.932,5.22,Ridge Regression,dissolved_oxygen
+0.303,0.389,0.938,4.99,Random Forest,dissolved_oxygen
+0.302,0.388,0.938,4.96,Gradient Boosting,dissolved_oxygen
+0.385,0.499,0.944,10.5,Linear Regression,bod
+0.385,0.499,0.944,10.5,Ridge Regression,bod
+0.372,0.487,0.947,9.96,Random Forest,bod
+0.373,0.491,0.946,9.99,Gradient Boosting,bod
+0.175,0.226,0.293,2.27,Linear Regression,ph
+0.175,0.226,0.293,2.27,Ridge Regression,ph
+0.176,0.227,0.282,2.29,Random Forest,ph
+0.177,0.229,0.274,2.3,Gradient Boosting,ph
+22.373,42.761,0.873,19.07,Linear Regression,turbidity
+22.38,42.758,0.873,19.09,Ridge Regression,turbidity
+21.151,41.914,0.878,15.75,Random Forest,turbidity
+21.257,42.168,0.876,16.03,Gradient Boosting,turbidity
+0.646,0.803,0.987,2.91,Linear Regression,temperature
+0.647,0.802,0.987,2.91,Ridge Regression,temperature
+0.669,0.827,0.986,3.03,Random Forest,temperature
+0.667,0.824,0.986,3.02,Gradient Boosting,temperature
+38.41,52.256,0.872,10.63,Linear Regression,conductivity
+38.406,52.253,0.872,10.63,Ridge Regression,conductivity
+37.831,51.86,0.874,10.53,Random Forest,conductivity
+37.661,51.558,0.875,10.47,Gradient Boosting,conductivity

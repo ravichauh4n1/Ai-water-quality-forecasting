@@ -1,0 +1,9 @@
+station_code,station_name,river,state,latitude,longitude,cpcb_class,monitoring_frequency
+CPCB_G01,Rishikesh (Triveni Ghat),Ganga,Uttarakhand,30.1033,78.2948,A,Daily
+CPCB_G02,Haridwar (Har Ki Pauri),Ganga,Uttarakhand,29.9560,78.1700,B,Daily
+CPCB_G03,Kannauj (Upstream),Ganga,Uttar Pradesh,27.0540,79.9200,C,Daily
+CPCB_G04,Kanpur (Jajmau),Ganga,Uttar Pradesh,26.4310,80.3990,D,Daily
+CPCB_G05,Prayagraj (Sangam),Ganga,Uttar Pradesh,25.4299,81.8845,B,Daily
+CPCB_G06,Varanasi (Assi Ghat),Ganga,Uttar Pradesh,25.2885,83.0063,C,Daily
+CPCB_G07,Buxar (Ramrekha Ghat),Ganga,Bihar,25.5788,83.9814,C,Daily
+CPCB_G08,Patna (Gandhi Ghat),Ganga,Bihar,25.6207,85.1720,C,Daily
